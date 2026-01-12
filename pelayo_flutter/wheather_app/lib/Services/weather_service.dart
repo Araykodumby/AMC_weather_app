@@ -4,7 +4,7 @@ import '../models/weather.dart';
 
 class WeatherService {
   // Replace with your actual OpenWeatherMap API key
-  static const String _apiKey = 'ca285bc6949ae99ac94a5322523ae2df';
+  static const String _apiKey = '';
   static const String _baseUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
   /// Fetches weather data for a given city
